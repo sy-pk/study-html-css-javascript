@@ -29,45 +29,45 @@ p {
 div {
     position: relative;
     background-color: #999999;
-    border: 3px solid black;
+    border: 1px solid black;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
 }
 
-.sub1 {
+.title1 {
     float: right;
     width: 150px;
     padding: 5px;
-    margin: -3px -3px 0px;
-    border: 3px solid black;
+    margin: -1px -1px 0px;
+    border: 1px solid black;
     text-align: center;
     font-size: 125%;
     font-weight: bold;
     background-color: #CC9B99;
 }
 
-.sub2 {
+.title2 {
     float: right;
     color: #FEFEFE;
     width: 150px;
     padding: 5px;
-    margin: -3px -3px 0px;
-    border: 3px solid black;
+    margin: -1px -1px 0px;
+    border: 1px solid black;
     text-align: center;
     font-size: 125%;
     font-weight: bold;
     background-color: #B34D48;
 }
 
-.sub3 {
+.title3 {
     color: black;
     float: right;
     width: 150px;
     padding: 5px;
-    margin: -3px -3px 0px;
-    border: 3px solid black;
+    margin: -1px -1px 0px;
+    border: 1px solid black;
     text-align: center;
     font-size: 125%;
     font-weight: bold;
