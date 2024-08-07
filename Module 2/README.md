@@ -12,5 +12,5 @@ In the tablet view (between 768px and 991px, inclusively), the first 2 sections 
 <img src="https://github.com/user-attachments/assets/a8af943e-5bb9-4615-85e1-d73eaca08abb" width="700"/>  
 
 ## Mobile Version
-In the mobile view (equal to or less than 767px), each section should take up the entire row.
+In the mobile view (equal to or less than 767px), each section should take up the entire row.  
 <img src="https://github.com/user-attachments/assets/b0740717-05f9-493c-b560-5e2c49f031d3" width="300"/>  
