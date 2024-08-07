@@ -5,7 +5,7 @@ Creating a responsive page that follows the mockup illustrations shown below.
 
 ## Desktop Version
 In the desktop view (992px and above), each of the 3 sections should take up equal amount of space on the screen.
-![desktop](https://github.com/user-attachments/assets/520eedf9-4d0b-4b6c-9f65-04aa58eb9c7b) 
+![desktop](https://github.com/user-attachments/assets/1ebb3409-514a-4fee-98ae-b3927736a177)
 
 ## Tablet Version
 In the tablet view (between 768px and 991px, inclusively), the first 2 sections should be in the first row and be of equal size.
