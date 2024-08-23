@@ -15,6 +15,6 @@ For this assignment, we changed this line to prepare it for a random category `s
 <a href="#" onclick="$dc.loadMenuItems({{randomCategoryShortName}});">
 ```
 You are NOT allowed to change the `home-snippet.html` file.   
-Any adjustments to the value of `randomCategoryShortName` property needs to be done in Javascript code.  
+Any adjustments to the value of `randomCategoryShortName` property needs to be done in `js/script.js` file.  
 
 ## Preview of [Completed Assignment]()
