@@ -1,4 +1,4 @@
-# HTML, CSS, and Javascript for Web Developers 
+# Introduction to CSS3
 Creating a single responsive page that follows the mockup illustrations shown below.  
 - You are not allowed to use any CSS or JavaScript framework, including Twitter Bootstrap, for this assignment.
 - Desktop view (992px and above): each of the 3 sections should take up equal amount of space on the screen.
