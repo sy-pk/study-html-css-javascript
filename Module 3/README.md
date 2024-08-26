@@ -1,4 +1,4 @@
-# Module 3
+# Introduction to CSS3
 Creating the implementation of a single, responsive page that follows the provided mockup illustrations for desktop and tablet, mobile, and mobile with a dropdown menu.  
 - Use Twitter Bootstrap CSS Framework as much as possible.
 - Create a navbar that scrolls away with the page, becoming invisible and not fixed to the top when you scroll down.
