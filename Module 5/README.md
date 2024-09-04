@@ -1,9 +1,10 @@
 # Using Javascript to Build Web Applications  
 Enhancing the functionality of our restaurant web application by introducing a fun twist to the Specials menu category.  
-Previously, when users clicked on the "Specials" tile on the home page, they were directed to a fixed menu category called "Specials." 
+Previously, when users clicked on the "Specials" tile on the home page, they were directed to a fixed menu category called "Specials."  
 Now, this assignment changes that behavior by redirecting users to a random category page each time they click on the "Specials" tile, whether it’s Lunch, Dinner, Sushi, or any other category.  
 
-In order to accomplish this, we need to change the home HTML snippet and, besides pulling it dynamically from the server, also insert a random category `short_name` into the function call of the following code. Previously, the code to send the user to the "Specials" category was this:
+In order to accomplish this, we need to change the home HTML snippet and, besides pulling it dynamically from the server, also insert a random category `short_name` into the function call of the following code.  
+Previously, the code to send the user to the "Specials" category was this:
 
 ```html
 <a href="#" onclick="$dc.loadMenuItems('SP');">
