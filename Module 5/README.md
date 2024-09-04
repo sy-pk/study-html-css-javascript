@@ -18,6 +18,6 @@ For this assignment, we changed this line to prepare it for a random category `s
 You are NOT allowed to change the `home-snippet.html` file.   
 Any adjustments to the value of `randomCategoryShortName` property needs to be done in `js/script.js` file.  
 
-## Preview of [Completed Assignment](https://cailynp.github.io/HTML-CSS-and-Javascript/Module%205/)
+## Preview of [Completed Assignment](https://cailynp.github.io/study-html-css-javascript/Module%205/)
 <img width="697" alt="Screenshot 2024-08-23 at 11 28 28 AM" src="https://github.com/user-attachments/assets/21400d36-9b4f-436d-b328-867b044b2be2">| <img width="697" alt="Screenshot 2024-08-23 at 11 28 20 AM" src="https://github.com/user-attachments/assets/3b12a665-749f-4ff8-b982-1a4fea90581b">
 --- | --- |
