@@ -14,7 +14,7 @@ Creating a single responsive page that follows the mockup illustrations shown be
 --- | --- | --- |  
 <br/>
     
-## Preview of [Completed Assignment](https://cailynp.github.io/study-html-css-javascript/Module%202/)  
+## Preview of [Completed Assignment](https://sy-pk.github.io/study-html-css-javascript/Module%202/)  
 
 ![Desktop View](https://github.com/user-attachments/assets/eef4f207-be10-4068-8749-ab688f1bcde4) |![Tablet View](https://github.com/user-attachments/assets/778a15ee-3711-44c9-8e96-fb5233802aac) |![Mobile View](https://github.com/user-attachments/assets/5f382ff6-d952-47f9-96c3-45c00796af65)
 --- | --- | --- |  
