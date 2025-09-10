@@ -13,7 +13,7 @@ Creating the implementation of a single, responsive page that follows the provid
   
 ![desktop](https://github.com/user-attachments/assets/2a1fde0c-5009-4637-8589-a6591f695093) |![menu-collapsed](https://github.com/user-attachments/assets/9163bbab-4f1e-4f55-8a44-f18e91bf1343) |![mobile-expanded](https://github.com/user-attachments/assets/fef7ac98-b2d0-4fa9-8401-ffe8ccee1e18)
 --- | --- | --- |  
-## Optional [Completed Assignment](https://cailynp.github.io/study-html-css-javascript/Module%203/) 
+## Optional [Completed Assignment](https://sy-pk.github.io/study-html-css-javascript/Module%203/) 
 - Provide a "Back to Top" link at the end of each section that jumps the page back to the "Our Menu" heading.
 - In the desktop view, each of the 3 sections should take up equal amount of space on the screen. (use `col-md-4`)
 - In the tablet view, place the first two sections in the first row with equal size and the third section in the second row taking up the entire row. (use `col-sm-12`)
